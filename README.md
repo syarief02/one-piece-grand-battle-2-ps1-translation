@@ -139,6 +139,12 @@ python tools/create_patch.py
 ```
 This produces `build/grand_battle_2_en.patch`.
 
+### Step 4: Convert to Single CHD Format (Compressed)
+```powershell
+chdman createcd -i "build/grand_battle_2_en.cue" -o "build/One Piece - Grand Battle 2 (English Patched).chd"
+```
+This produces a single, lossless compressed `.chd` ROM file ready for all modern emulators.
+
 ---
 
 ## 📂 File Structure

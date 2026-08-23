@@ -1,0 +1,465 @@
+﻿file,size,tags,strings_count,sample
+file_000_LBA_01704.bin,65536,,747,"tｼﾘｮL | 01ｩｭ､ｫ､ｫnｧｭ､ | dh~b | Dｾy0 | |ZHU | &Pｳp"
+file_001_LBA_01736.bin,81920,Story/Text,1375,"Rh)< | ｨ
+8 ' | 012ｦ｡｣･pqunｴｩｭ | Rh)< | ｨ
+8 ' | 012ｦ｡｣･pqvnｴｩｭ"
+file_002_LBA_01776.bin,81920,Story/Text,915,"Tﾝﾝ, | ｦ｡｣･pqynｴｩｭ | 2z:ｶRﾝB | _>S]_~cｾo | 8 ,ﾇN | ｽﾇzｩ"
+file_003_LBA_01816.bin,73728,,593,"ｦ｡｣･pspnｴｩｭ | .z&ｼ>ﾞ | x""ﾟﾝ | GFｫL | ｾﾓ'$ | YﾂGD."
+file_004_LBA_01852.bin,81920,Story/Text,919,0ｦ｡｣･pqwnｴｩｭ | !ﾎ562 | >ﾖZ9c | ﾘ?ﾄﾓﾍﾜ | ﾙﾁｬﾚ | s#3cf
+file_005_LBA_01892.bin,90112,Story/Text,1291,"ﾏhDD4c | ISｧﾝzw53C | ﾞﾍﾌzﾟt/ﾝv | ﾓ
+ﾍｻｻﾋﾌﾝ | p Kﾌ | ｦ｡｣･prvnｴｩｭ"
+file_006_LBA_01936.bin,81920,Story/Text,1496,ﾂﾓｪe | F7O; | 94+ｩ | R･ 9 | a>ﾏ｣ | I･C:
+file_007_LBA_01976.bin,73728,Story/Text,1350,ｺｯｲnｴｩｭ | *6.w: | R:c|k | sｽsﾞ{ｬ|:#8 | BR&ﾃ | R}-ｸｻ
+file_008_LBA_02012.bin,73728,Story/Text,1243,ｺｯｲnｴｩｭ | *6.w: | R:c|k | sｽsﾞ{ｬ|:#8 | BR&ﾃ | R}-ｸｻ
+file_009_LBA_02048.bin,73728,,1231,｡aｪｪ | j3#/ | jUE3z | HIｩﾞ | i%S3dｩVw | )8wﾋ
+file_010_LBA_02084.bin,73728,Story/Text,1084,qUYnLﾀ | : 2u | 012ｦ｡｣･pswnｴｩｭ | ﾐ55:uF{Bﾙ.ﾙV | [>_|cｾs | ﾗﾝﾝo242
+file_011_LBA_02120.bin,81920,Story/Text,1126,fr{ﾛ | Tｸxcｾｩ | ywTﾃﾉ | |Wｳt | ｰﾞX･9ｾ | ﾎｵﾉ;
+file_012_LBA_02160.bin,81920,Story/Text,1190,"5DPw｡ | ﾝnﾜO | 012ｦ｡｣･psynｴｩｭ | 6tN::[> | FｽJﾝR | 8 ,G"
+file_013_LBA_02200.bin,81920,,1107,ｮ｡ｭnｴｩｭ | *7.x> | sｽwﾞ{ｬ|L#8 | rﾎﾜx | }HUU | ｷｻｻﾋ
+file_014_LBA_02240.bin,81920,Story/Text,1431,ｮ｡ｭnｴｩｭ | *7.x> | sｽwﾞ{ｬ|L#8 | rﾎﾜx | }HUU | ｷｻｻﾋ
+file_015_LBA_02280.bin,81920,Story/Text,1412,"ｵｳｯnｴｩｭ | *6.w: | _:c|k | sｾwﾞ{ | ﾆ'233 | k2ｯ:&ｸ"""
+file_016_LBA_02320.bin,81920,Story/Text,1251,"ｵｳｯnｴｩｭ | *6.w: | _:c|k | sｾwﾞ{ | ﾆ'233 | k2ｯ:&ｸ"""
+file_017_LBA_02360.bin,73728,Story/Text,1241,"ｵｳｯnｴｩｭ | *6.w: | _:c|k | sｾwﾞ{ | ﾆ'233 | k2ｯ:&ｸ"""
+file_018_LBA_02396.bin,73728,Story/Text,1329,"ｵｳｯnｴｩｭ | *6.w: | _:c|k | sｾwﾞ{ | ﾆ'233 | k2ｯ:&ｸ"""
+file_019_LBA_02432.bin,73728,,1410,"ｵｳｯnｴｩｭ | *6.w: | _:c|k | sｾwﾞ{ | ﾆ'233 | k2ｯ:&ｸ"""
+file_020_LBA_02468.bin,73728,,1302,L!n% | %ｱ!ﾐ- | NUU%0 | {<:UE? | VUCﾆ) ? | ey F
+file_021_LBA_02504.bin,73728,Story/Text,1220,ｳUﾒﾟ | q｣Sﾞ | bCr[u | V&#Z{ | AX93SｺW | aXfD
+file_022_LBA_02540.bin,73728,Story/Text,1202,rWuｷa | }ﾚCｽ | ﾀaｽﾕ | @aZC$ | agtﾘm | %､ｭI
+file_023_LBA_02576.bin,73728,Story/Text,1265,ﾖ}aBwIR | ｦｿI} | ]qBgE5ﾗ | ﾕLb27s | 7N]ﾂ | :BD3w
+file_024_LBA_02612.bin,73728,,1010,"qﾏﾜﾙ | ｾEUT | hSｩｪ | 0ｦ｡｣･pqunｴｩｭ | '9hEl%ｩMﾊUﾓ- | ,nMv76"
+file_025_LBA_02648.bin,81920,Story/Text,1445,"""~ ﾃ | ﾃ ｱｧ_ | ﾟO89Q | ﾁ=ﾏﾞ | ﾂ8ﾎﾝﾏ?,ｳ | <ﾌﾍﾎ"
+file_026_LBA_02688.bin,73728,Story/Text,1280,*%k) | SZc! | D$Qｪ | ﾋﾌ|･ | r^/) | ｿｶ6D｢J3
+file_027_LBA_02724.bin,73728,Story/Text,2065,"ｾ$dﾇg | ｮIcf't | 8D4ﾃ | ﾜﾝ""Iﾄ | ;cdﾒ | 012ｦ｡｣･ppunｴｩｭ"
+file_028_LBA_02760.bin,73728,Story/Text,1586,ｫｲｫnｴｩｭ | *W6x>ﾙN | ﾟ;c[g|o | sｽwﾞ{ | ﾜ&ｦ2 | XUUe
+file_029_LBA_02796.bin,73728,,1789,"｡ｲｮnｴｩｭ | BｸJﾙN | _:c[k | sｽwﾞ{ | ｿOsG | 13CU33"
+file_030_LBA_02832.bin,73728,Story/Text,1897,ｦ｡｣･pwrnｴｩｭ | *)k1ｭ= | NsZｵf | Nff& | >2?ﾂefb | ﾑdfa
+file_031_LBA_02868.bin,73728,Story/Text,1593,"0ｦ｡｣･puwnｴｩｭ | &h)< | Fdoｧ | ,ｨｽ; | 1ｪhﾛ | F!ﾆﾝ"
+file_032_LBA_02904.bin,73728,,1454,"2%ｭ5 | R9gｼsﾞ{ | Q#UU | ""Uuｽ | 1Uｾgﾑ | ﾏﾗﾅ#"
+file_033_LBA_02940.bin,81920,Story/Text,1723,"012ｦ｡｣･ptrnｴｩｭ | ｨ ｩ$ﾉ$ﾊ( | ﾋ,ﾌ0 | 0adP& | abﾒ< | A|!ﾒ8"
+file_034_LBA_02980.bin,73728,Story/Text,1849,"Rshﾘ | x4S=ｼ | 01ｦ｡｣･pvtnｴｩｭ | Th)< | ,%M%ｪM | -ﾋUﾑ9"
+file_035_LBA_03016.bin,81920,Story/Text,1993,1JrRｴZ | }ﾚﾑﾂ | \Tuj | >cFrﾏ | Xﾃ]Eﾄ | VDｳe
+file_036_LBA_03056.bin,81920,Story/Text,1744,HD#｡(jｵｶ | %k7Dd(+ｲ | ｳ6y% | 4Ed8 | Cﾆs H$3 | 1ｻA2dKｧｱ
+file_037_LBA_03096.bin,81920,Story/Text,1404,ｦ$ﾆ$ | 9+)IA | JxVﾛ^ | ﾎﾌCd | ﾋﾜﾌｬB | ﾊﾌﾌ;D
+file_038_LBA_03136.bin,81920,Story/Text,1343,"ｴｳｧnｴｩｭ | ""g)< | *7.X6x> | R:cZg|o | sﾞ{| | """"3#"
+file_039_LBA_03176.bin,81920,Story/Text,1354,"ｴｳｧnｴｩｭ | ""g)< | *7.X6x> | R:cZg|o | sﾞ{| | """"3#"
+file_040_LBA_03216.bin,81920,Story/Text,1594,ｷ･ｮnｴｩｭ | $g)< | *W6x:ｸFﾙN | R:c{o | sｾwﾞ{ｬ | qｪ5{
+file_041_LBA_03256.bin,81920,Story/Text,1267,",GAｨYﾎ=
+^2J | ^Xs}oﾞ{ | CD$A | jb8| | ]C4ADD1 | *Cﾀf8"
+file_042_LBA_03296.bin,81920,Story/Text,1496,"ｽfｨｶS | ""ﾝｻ:｣ | UBBﾝ; | 1SQRｫ6 | (FQQ6 | *|ｨｪ*"
+file_043_LBA_03336.bin,81920,Story/Text,1554,"ｯB4ﾉT | ?$ﾋ/ | 7Dd5 | ｱ4D< | 3""#> | xｻﾌｼ"
+file_044_LBA_03376.bin,81920,,1301,ｳ@ﾀn | ﾄvｪ/Hﾈ | ｦｪｳｴ | 01ｦ｡｣･psvnｴｩｭ | ｢h)< | ﾋA.R
+file_045_LBA_03416.bin,81920,Story/Text,1476,"012ｦ｡｣･pvxnｴｩｭ | Ph)< | !ｲ)ﾓ)ﾔ- | .Y2{6 | 8u$dF# | iuBW"""
+file_046_LBA_03456.bin,81920,Story/Text,1980,"ｬffa | ﾉ
+｡m | ､8!? | ﾑf%A | e｡(ﾄﾖ | ?F!E!!"
+file_047_LBA_03496.bin,73728,,1318,"wE""? | P?wS | ﾒﾝﾝ\! | ﾝ]ﾙH | ﾏ!'sb | 0ｦ｡｣･pwxnｴｩｭ"
+file_048_LBA_03532.bin,81920,,943,33De | fVT| | V$2SﾒQ6! | 01ｦ｡｣･pxynｴｩｭ | 012ｦ｡｣･pypnｴｩｭ | ｳｹｮnｴｩｭ
+file_049_LBA_03572.bin,81920,,947,｣ｹｯnｴｩｭ | &g)< | _:c{k | sｽwﾞ{ｴ | bｪ$$ | ｦ:ｺL$
+file_050_LBA_03612.bin,81920,Story/Text,882,｣ｹｯnｴｩｭ | &g)< | _:c{k | sｽwﾞ{ｴ | bｪ$$ | ｦ:ｺL$
+file_051_LBA_03652.bin,81920,,903,｣ｹｯnｴｩｭ | &g)< | _:c{k | sｽwﾞ{ｴ | bｪ$$ | ｦ:ｺL$
+file_052_LBA_03692.bin,81920,,993,｣ｹｯnｴｩｭ | &g)< | _:c{k | sｽwﾞ{ｴ | bｪ$$ | ｦ:ｺL$
+file_053_LBA_03732.bin,73728,,1098,"ｬfﾒ@ | QAv5 | a_z& | h5ﾙ~ | ｾ
+:Qxq | [ｪJｫ"
+file_054_LBA_03768.bin,81920,Story/Text,1383,｣ｹ｢nｴｩｭ | 4g)< | _:c{k | sｽwﾞ{ｴ | bｪ$$ | ｦ:ｺL$
+file_055_LBA_03808.bin,81920,Story/Text,1543,>ｶ%1 | oｴZｷ | j8ｱﾌ | Y#$23 | iU#S | ﾃ{$#ｴ
+file_056_LBA_03848.bin,81920,Story/Text,1641,rBｧN | 012ｦ｡｣･prtnｴｩｭ | ｪg)< | 8>YB | ｾｪｪﾊ | 14ｰｽ_
+file_057_LBA_03888.bin,81920,Story/Text,1582,"1?f0 | ｯXﾂ2 | ｦ｡｣･psunｴｩｭ | ｬg)< | ,%l) | :5>WB"
+file_058_LBA_03928.bin,73728,Story/Text,1290,S^_~gﾞ{ | Yswｿﾟ | ｦ｡｣･ptwnｴｩｭ | )k1p)ﾍ=ｴ1 | ｼｻｫ8 | ｻｻk｡a
+file_059_LBA_03964.bin,73728,,1564,"ｦ｡｣･ptsnｴｩｭ | ｮg)< | !)%I)j-ｭ5ﾎ9 | 0FQJrNsN | ｽF;7 | ﾝLE"
+file_060_LBA_04000.bin,73728,Story/Text,1465,ｰg)< | !(%J) | FPFrN | pq2O | /hDtc | _6841P
+file_061_LBA_04036.bin,73728,Story/Text,1311,8 )ｹ% | ｦ｡｣･pqpnｴｩｭ | ｲg)< | !)%k- | B0FQJRNsN | 012ｦ｡｣･pqqnｴｩｭ
+file_062_LBA_04072.bin,81920,Story/Text,1929,｣ｲ｣nｴｩｭ | &g)< | %6.W6x:ｸF | ﾟ:c[g|o | sｾwﾞ{ﾄ | i!s8
+file_063_LBA_04112.bin,73728,,1121,"01ｦ｡｣･pqrnｴｩｭ | ｺg)< | RJ9""9g{oｽwﾞ{ | EFhｻ | D7ﾝ1
+@ｨ | MDﾄｮH"
+file_064_LBA_04148.bin,81920,Story/Text,1163,"ｭ｡ｳnｴｩｭ | (g)< | _[g|k | sｽwﾞ{( | A#ｻｩ | 2E2$ai!"""
+file_065_LBA_04188.bin,73728,Story/Text,949,"!{&ﾐbZk | CﾇｷｫX | ﾎWﾓ? | ﾟｧk% | ｸｻﾗﾍ | ""RBB)ﾂT"""
+file_066_LBA_04224.bin,81920,Story/Text,2139,ｷｰｯnｴｩｭ | (g)< | *72w>ｸF | _;c|k | sｾwﾞ{| | ｩﾗ$qﾏaﾏﾍ
+file_067_LBA_04264.bin,73728,Story/Text,1865,"M#""2 | 0ｦ｡｣･pqxnｴｩｭ | ﾒg)< | ｨ
+8 ' | 012ｦ｡｣･pqynｴｩｭ | ﾒg)<"
+file_068_LBA_04300.bin,73728,,1989,ｷｰｯnｴｩｭ | (g)< | *72w>ｸF | _;c|k | sｾwﾞ{| | ｩﾗ$qﾏaﾏﾍ
+file_069_LBA_04336.bin,81920,,2090,ｷｰｯnｴｩｭ | (g)< | *72w>ｸF | _;c|k | sｾwﾞ{| | ｩﾗ$qﾏaﾏﾍ
+file_070_LBA_04376.bin,73728,,1660,ｭｲrnｴｩｭ | (g)< | *W2x:ｸJﾙN | ﾟ:c[g|o | sｾwﾞ{( | 2#2a
+file_071_LBA_04412.bin,81920,Story/Text,1789,ｭｲrnｴｩｭ | (g)< | *W2x:ｸJﾙN | ﾟ:c[g|o | sｾwﾞ{( | 2#2a
+file_072_LBA_04452.bin,81920,Story/Text,1728,ｭｲrnｴｩｭ | (g)< | *W2x:ｸJﾙN | ﾟ:c[g|o | sｾwﾞ{( | 2#2a
+file_073_LBA_04492.bin,81920,Story/Text,1779,"ｦ｡｣･pqqnｴｩｭ | ﾆg)< | %*)ﾏ= | 8 ,jｻ | ｦ｡｣･pqrnｴｩｭ | ﾆg)<"
+file_074_LBA_04532.bin,81920,Story/Text,1827,!L)ｯ5 | [Zs\o | %B･Gﾚｻｭｽｻｻ | 2&b｣ｪ | ｻﾋｾy | ｪﾘﾇﾜ
+file_075_LBA_04572.bin,81920,Story/Text,1882,01u=ﾘI | MWN<Vﾕb | |ZｾbﾞfZs | \ｴKﾈ | eｦｼ7 | *oﾞ[AfR
+file_076_LBA_04612.bin,81920,Story/Text,1415,"ﾃcﾎｹ | !""ﾆ1 | ｪ!Zﾂ1 | yｩ-w | ^ｧZuｩ | ﾏ!B$"
+file_077_LBA_04652.bin,81920,Story/Text,1350,"l-ｰ-ｲ- | 4:QNrR | ﾌ!""ｼｩ | ﾃﾌtw | ｧﾚjJ | wｰ｡ﾙ!V<"
+file_078_LBA_04692.bin,81920,Story/Text,1585,ｫ｡ｬnｴｩｭ | *g)< | *V2w>ｸJ | _[g|k | sｽwﾞ{H | T$Sｧ
+file_079_LBA_04732.bin,81920,,1828,*.8 ' | ｦ｡｣･pxvnｴｩｭ | hh)< | 01ｦ｡｣･pxwnｴｩｭ | hh)< | zt&ﾅ
+file_080_LBA_04772.bin,81920,Story/Text,1506,ｫ｡ｬnｴｩｭ | *g)< | *V2w>ｸJ | _[g|k | sｽwﾞ{H | T$Sｧ
+file_081_LBA_04812.bin,81920,,1713,ｫ｡ｬnｴｩｭ | *g)< | *V2w>ｸJ | _[g|k | sｽwﾞ{H | T$Sｧ
+file_082_LBA_04852.bin,81920,Story/Text,1506,%ﾙﾋRU | [uｺﾌ | 012ｦ｡｣･ppsnｴｩｭ | ｰh)< | Eﾎ)ｬu2: | ｵ:W/
+file_083_LBA_04892.bin,81920,Story/Text,1379,C{ﾂ1 | tｪｪ8 | 1C@x | ﾒ03C | ﾒ0L4=C | jｴｲｼ
+file_084_LBA_04932.bin,81920,Story/Text,1344,"8 ｩm, | 0ｦ｡｣･pspnｴｩｭ | ﾆh)< | O!p) | !ｲ-ﾔ5 | >XFyJ"
+file_085_LBA_04972.bin,81920,Story/Text,1492,gﾚVWs]cﾞ{ | ｽ｢gf | \&ｱﾛf | / ﾎAﾄ | 012ｦ｡｣･ptpnｴｩｭ | ﾈh)<
+file_086_LBA_05012.bin,73728,Story/Text,1414,!J5ﾍ9ﾌ] | k8kzs | ｾｻｫｪ | ｻｪy$ | #2uｻﾃ | %Sﾊﾝ
+file_087_LBA_05048.bin,81920,,1437,X1Q; | ﾝ2 ﾝ | !Daﾊｴｻ | D1ｧrｻ | S)6ﾋt | ｻ｡2ﾋ
+file_088_LBA_05088.bin,73728,Story/Text,1454,"5!$$FwK | x7""""dﾋﾌｻb | 012ｦ｡｣･pvunｴｩｭ | vh)< | 8[z_ | gﾝkﾞo"
+file_089_LBA_05124.bin,81920,Story/Text,1766,"?wQN | bwg｡ | SQH_ | ｿ2ｬﾌﾃ | ｬ<
+A | ﾂ/wﾝ"
+file_090_LBA_05164.bin,73728,,945,"1,.M2 | >ｰBｱBﾐBﾒJ | ﾉﾜﾝｽ| | K3ｺ\"" | 01ｦ｡｣･pvpnｴｩｭ | ﾎh)<"
+file_091_LBA_05200.bin,81920,Story/Text,1262,"0ｦ｡｣･pusnｴｩｭ | ﾔh)< | d+! | s>\&}*ﾖF | ｯﾆﾌY | Sﾉﾓﾏ"
+file_092_LBA_05240.bin,81920,Story/Text,1558,%3wwﾈ0 | swGQ | 0ｦ｡｣･ptynｴｩｭ | ﾈ$+9 | sｽwﾞ{ | ﾟ･ｺ9D
+file_093_LBA_05280.bin,81920,Story/Text,1566,",3｣:Bｺﾈ | ,ﾃz& | ﾏ1hf | 0ｦ｡｣･pvtnｴｩｭ | ﾊh)< | 012ｦ｡｣･pvunｴｩｭ"
+file_094_LBA_05320.bin,81920,Story/Text,1038,ｭｲqnｴｩｭ | 0g)< | &V2x>ｹF | [[c|o | sｾwﾞ{ | (SU%
+file_095_LBA_05360.bin,81920,,1177,ｭｲqnｴｩｭ | 0g)< | &V2x>ｹF | [[c|o | sｾwﾞ{ | (SU%
+file_096_LBA_05400.bin,81920,Story/Text,1261,"ｭ､ｦnｴｩｭ | 0g)< | *72w: | R:_|k | sｽwﾞ{ | ﾇ!""T$SA"
+file_097_LBA_05440.bin,81920,,1402,"ｭ､ｦnｴｩｭ | 0g)< | *72w: | R:_|k | sｽwﾞ{ | ﾇ!""T$SA"
+file_098_LBA_05480.bin,81920,,1299,"A%E(5FM | f.nOr | 8 ,ﾝｱ | !#Zﾂﾇ~ | ﾄﾝG! | ]??UU"
+file_099_LBA_05520.bin,73728,Story/Text,1443,"ﾝN}w) | ｽ+""ﾂ | {L""ｮB%ﾒﾝ | <ﾎﾕ+ﾕｼ | UUｽ5ﾌ | ﾜﾍﾌﾍJ"
+file_100_LBA_05556.bin,81920,Story/Text,1972,wc9Bn | ｫy6Eｦ | ｻ ﾌDmｴkｦG2X | 01ｦ｡｣･ppynｴｩｭ | >tFXFｷJ | ﾛR9[>[{gｽsﾞ{
+file_101_LBA_05596.bin,73728,Story/Text,1793,8ﾄrYﾚｭ | yﾗﾝaFﾞ | WVﾋｱ | ｪﾛｭu?A | ﾔﾝMfﾃ | ﾑGﾜmfD
+file_102_LBA_05632.bin,81920,Story/Text,1888,ｪhS1ﾉI | SEﾆ| | 01ｦ｡｣･pqxnｴｩｭ | \h)< | 9gZk{o | sｽwﾞ{
+file_103_LBA_05672.bin,81920,Story/Text,1499,*%J% | ｻｻY2 | ﾘ|!e | ｻXV{Q | ｦ｡｣･prtnｴｩｭ | L!m!n%
+file_104_LBA_05712.bin,81920,Story/Text,1654,"2s>ｵF | O{Kzk | ｡ｽU: | 1:｡' | !""""p | 75ﾝﾝ"
+file_105_LBA_05752.bin,81920,,1980,1m)e | #ﾈxﾎｶ | ｣ﾕﾏx | 63ﾘh | H?| sﾙﾊ | ｮﾏﾃx
+file_106_LBA_05792.bin,81920,Story/Text,2161,"ｾ_pP | Wﾟｯｰﾗ
+r | Rｸxﾀ | zX!I | 8@ P | qp#0"
+file_107_LBA_05832.bin,81920,Story/Text,2349,"?`hDHLHD | fﾇﾌ\A | pD""$ | ﾍﾜ?`Bﾌ | 01｢ｧpxrnｴｩｭ | <&bbff"
+file_108_LBA_05872.bin,81920,Story/Text,2052,ｫ3DD | ?1[F | ;/ﾀ! | ?Aｺ? | EdFfﾘ | ﾏ> Qｺ
+file_109_LBA_05912.bin,81920,Story/Text,2294,01ｦ｡｣･prsnｴｩｭ | >W*ﾐJｶ6 | Wｽ6U_ | k~Oｾ_ﾛs | ﾉgﾐｰ | ｨ@\ﾉ
+file_110_LBA_05952.bin,81920,Story/Text,2783,&$ｾ3# | ｦ｡｣･pqynｴｩｭ | 'EJ1 | jZ.ｯn | lJｻf | \JｺH
+file_111_LBA_05992.bin,81920,Story/Text,2612,"D3#C | ｪﾚﾓcﾍ8C | #cｺﾜﾝﾍ | 3""sｩｻｫ | 01ｦ｡｣･prqnｴｩｭ | ﾍｽｻｫ"
+file_112_LBA_06032.bin,81920,Story/Text,2541,"ﾝﾝﾌUi | ﾂﾇ#ｦ | 7""""ｪ | ﾕEDuｻﾟ | Vf3S2 | ｾﾟYDI4C"
+file_113_LBA_06072.bin,81920,,2580,"01ｦ｡｣･pqynｴｩｭ | ｬ$ﾎ( | %1)ﾕ)x | ^[ｾg | ｨﾎW#!""!ﾞ | !13""22"
+file_114_LBA_06112.bin,81920,Story/Text,2429,0ｦ｡｣･prqnｴｩｭ | WZ_|gｽk | ｾ93s | ﾌ43ｳｬ | ﾉﾜｿ_A | ﾛ63S
+file_115_LBA_06152.bin,81920,Story/Text,2246,2ｺA*O | ｺ{?c | 01ｦ｡｣･prrnｴｩｭ | (ｪ$11MNｹM86 | ~j5_ | J^[ｾgﾞk
+file_116_LBA_06192.bin,81920,Story/Text,2857,"0ｦ｡｣･pqxnｴｩｭ | x6ｺ> | _ｾcﾞg | aﾜ#"" | ""ﾂc3 | !""2M"
+file_117_LBA_06232.bin,81920,Story/Text,2037,0ｦ｡｣･prvnｴｩｭ | s:ｶB | J9S[[ｽgﾞo | HﾟﾟtX$ | MTw%C! | >wEBU
+file_118_LBA_06272.bin,73728,Story/Text,2249,"ﾕｮﾍｧ3""122 | ﾚｬIs7ﾘ | ｼ#1U | ｭir' | ｼ82U3 | r%ﾋｽ(R5"
+file_119_LBA_06308.bin,81920,Story/Text,2351,"pnｰ｡｣ | ｦ｡｣･ppqnｴｩｭ | *3.U. | $Tev | -ｻﾌﾌ | x`=ｪﾋｻﾋ"
+file_120_LBA_06348.bin,81920,Story/Text,2408,"8ﾂ""ﾀ | ""3DTUUff5 | ﾟｯﾟｿﾂ | ｬi$C | ﾉｹ(ﾀ | ｫﾚﾋｾ"
+file_121_LBA_06388.bin,81920,Story/Text,2602,"4243 | Dｹ[Cﾀ | 0NDtH3"" | ^4TE | WfVDJ | ?3C?ﾘT"
+file_122_LBA_06428.bin,73728,Story/Text,2509,ｮ｡ｭnｴｩｭ | *7.x> | sｽwﾞ{ｬ|L#8 | rﾎﾜx | }HUU | ｷｻｻﾋ
+file_123_LBA_06464.bin,81920,Story/Text,2167,"DDﾄJt | L｣ﾏr | ｼｻ<ｮ6L | L@HB{ | 2[ﾚﾝ | ﾈQ
+ﾂ"
+file_124_LBA_06504.bin,73728,Story/Text,1940,ﾀOﾋﾉﾇ | ﾟVU5. | ffﾆ.ﾒ | ｺﾟｧｻﾛ | ｻｻ{. | ｯﾘW\
+file_125_LBA_06540.bin,81920,Story/Text,2288,ｻpo{(xﾁI | !QUｷｿ | *ｼﾃi<oA0ｷﾏ | x3]ﾃPｿ | /ﾝ`ﾟ | pﾔwW
+file_126_LBA_06580.bin,81920,Story/Text,1411,"ﾀｵｭ:N-! | Hc
+bww< | zA
+q | ･WBｰ | ﾄ>=a | )ｭxC"
+file_127_LBA_06620.bin,81920,,1196,"｡｣･pqtpnｴｩｭ | =1FRJ | RﾖZ9gZk{oｽwt4, | ｱﾝS]ﾘﾜ | X""""ﾝ | 2c9H"
+file_128_LBA_06660.bin,81920,Story/Text,1341,"｡｣･ptqpnｴｩｭ | ﾟsNｵV | ^9g{oｽwt4, | 0ﾔQlp | ｻK0ﾌ | j0wp"
+file_129_LBA_06700.bin,81920,Story/Text,1110,"｡｣･qqqpnｴｩｭ | J)k-ｭ5 | RﾖZ9g{oｽwt4, | -]ｸu | &ｻN[ | P \0y"
+file_130_LBA_06740.bin,81920,Story/Text,1515,"｡｣･qwqpnｴｩｭ | RﾖZ9g{oｽwt4, | Cw3ﾈ[ | 2`f, | 2ｰﾍ?}ﾃ | 1DD$ｩ"
+file_131_LBA_06780.bin,81920,,1522,"｡｣･rqqpnｴｩｭ | ﾄ""V< | )%k-ｭ5 | ^Zk{oｽwt4, | [ Ux | QS%)"
+file_132_LBA_06820.bin,73728,Story/Text,1431,"｡ｲ｢qrqpnｴｩｭ | ﾈ!V< | )%k-ｭ5 | ﾟsNｵV | ^9gZkｽwt4, | pｪｻ]""ｩ"
+file_133_LBA_06856.bin,81920,Story/Text,1659,"｡ｲｮqyspnｴｩｭ | ﾀ!V< | )%k- | 1ﾎ91F | ﾟsNｵV | ^9g{oｽwt4,"
+file_134_LBA_06896.bin,81920,Story/Text,1221,"｢ｲｧptqpnｴｩｭ | .!V< | !k-ｭ5 | ^9gZkｽwt4, | =3#Lv | ﾝuﾄ'"
+file_135_LBA_06936.bin,81920,Story/Text,1319,"｣ｨｳpvrpnｴｩｭ | ｪ!V< | )%k- | 1ﾎ91F | ﾟsNｵV | ^9g{oｽwt4,"
+file_136_LBA_06976.bin,81920,,1260,"｣ｲ｣pqspnｴｩｭ | ﾟsNｵV | ^9gZkｽwt4, | BDD#ﾚｰ | h@Vｻ | ｸｻｻhﾇ"
+file_137_LBA_07016.bin,81920,Story/Text,1492,"｣ｲ｣psvpnｴｩｭ | ﾐ V< | RﾖZ9g{oｽwt4, | d0f{ | pｰ{i | ﾟｿﾃp"
+file_138_LBA_07056.bin,81920,Story/Text,1236,"｣ｲ｣pxspnｴｩｭ | ｾ!V< | !J)k-ｭ5 | ﾟRJｵV | ^9g{oｽwt4, | ~｣80"
+file_139_LBA_07096.bin,81920,Story/Text,1413,"｣ｲ｣qrtpnｴｩｭ | )%k- | ^9gZkｽwt4, | (nｻT | ?Q5ｬ | 8ｯﾊ
+>/ ("
+file_140_LBA_07136.bin,81920,,1241,"｣ｲ｣qwtpnｴｩｭ | )%k-ｭ5 | ﾟsNｵV | ^9gZkｽwt4, | 21､S%2$!U | +!{5'ｮ"
+file_141_LBA_07176.bin,81920,Story/Text,983,"｣ｲ｣rrqpnｴｩｭ | ﾘ""V< | ^9g{oｽwt4, | bGｾup | 5#"": | iｻ}D"
+file_142_LBA_07216.bin,81920,Story/Text,1460,"｣ｹｯppqrnｴｩｭ | ~""V< | )%k- | RﾖZ9gZkｽwt4, | ｧ)｣j | ｢+0'"
+file_143_LBA_07256.bin,81920,Story/Text,1297,"｣ｹｯpqvpnｴｩｭ | )%k-ｭ5 | RﾖZ9g{oｽwt4, | =QUDｮ | yﾀ､'
+ 3 | `ﾞ)5"
+file_144_LBA_07296.bin,81920,Story/Text,1403,"｣ｹｯpstpnｴｩｭ | ｸ V< | !J)k-ｭ5 | ^9gZk{oｽwt4, | a0Uz | ﾂD$6ｨ"
+file_145_LBA_07336.bin,81920,Story/Text,1171,"｣ｹｯpuqpnｴｩｭ | `!V< | )%k- | 1ﾎ91FRJ | ^9gZkｽwt4, | ﾅ\ｻ_O"
+file_146_LBA_07376.bin,81920,Story/Text,1322,"｣ｹｯqrqpnｴｩｭ | RﾖZ9g{oｽwt4, | P70ｪ | Gｵ>k | 3Uex | >ﾁｯ1"
+file_147_LBA_07416.bin,81920,,1064,"｣ｹｯquspnｴｩｭ | p""V< | ﾟsNﾖZ | ^Zk{oｽwt4, | %q*1 | ｪ;ﾔｪ"
+file_148_LBA_07456.bin,81920,Story/Text,1290,"｣ｹｯqyqpnｴｩｭ | !k-ｭ5 | ﾟsNﾖZ9gZk{oｽwt4, | /ｯ4#23 | ｪyｧｪQ8 | ｫZ)H"
+file_149_LBA_07496.bin,81920,Story/Text,1078,"｣ｹｯrqqpnｴｩｭ | )%k- | ^9g{oｽwt4, | 3ADC | ﾘｽ*P | ﾞ3!ﾌQ"
+file_150_LBA_07536.bin,81920,,1172,"｣ｹｯrrupnｴｩｭ | ｬ""V< | !J)k-ｭ5 | ﾟsNｵV | ^9g{oｽwt4, | ｻﾔｬm"
+file_151_LBA_07576.bin,73728,,1211,"､ｬｴrqtpnｴｩｭ | ^9gZkｽwt4, | ' 5ﾝﾟ# | hBｴVﾉ | ""23eﾖ | U8
+@D"
+file_152_LBA_07612.bin,81920,,1196,SU7X$Yｴ$ | 0ﾉｭ-ｴｪ | @SYzﾋm | '=ﾅｩ | 4sCd | ﾇｻｾｯRﾈｼR
+file_153_LBA_07652.bin,73728,,382,ﾟz<_ | ｯｪ{o | _3｣ｽ2 | mv~b0h | ｿY ｦ | ?ｸﾅB
+file_154_LBA_07688.bin,81920,,275,"ｫ｡ｬpqtpnｴｩｭ | ﾟsNｵVﾖZ9g{oｽwt4, | @ﾟ:! | `ﾟ9o | ﾝｽｶk | C{6t"
+file_155_LBA_07728.bin,81920,Story/Text,221,"ｫ｡ｬptspnｴｩｭ | >!V< | ﾟsNﾖZ9gZk{oｽwt4, | 5038 | o33# | jg0ﾝ"
+file_156_LBA_07768.bin,81920,,268,"ｫ｡ｬqsvpnｴｩｭ | `""V< | )%k-ﾎ91F | RﾖZ9g{oｽwt4, | \*=W | 73Cｲ"
+file_157_LBA_07808.bin,81920,Story/Text,903,"ｫ｡ｬrsspnｴｩｭ | !k-ﾎ9 | ﾟsNｵV | ^Zk{oｽwt4, | \ ｪｪｺ | ｯZｨ｡r"
+file_158_LBA_07848.bin,81920,,1354,"Jﾌﾗﾗ｣L | zPｪｫ8 | ｡0uｯ5- | ﾌ
+YﾁeｪDd | ｶ+!A | ﾛcMﾄvｻ"
+file_159_LBA_07888.bin,81920,,1416,"ｭ｡ｳppqrnｴｩｭ | )%k- | 1ﾎ91F | ﾟsNｵV | ^9g{oｽwt4, | C8_23"
+file_160_LBA_07928.bin,81920,,1452,"ｭ｡ｳpqvpnｴｩｭ | RﾖZ9g{oｽwt4, | <43uｧ)$ | @w<ﾓ | ｩJxﾍ | `gﾗｫｪﾜ"
+file_161_LBA_07968.bin,81920,,1268,&1ef | ﾀﾑU| | kｽz1R | ﾐ3B? | SUUﾂ | ｭ｡ｳpstqnｴｩｭ
+file_162_LBA_08008.bin,81920,Story/Text,1003,"}ﾒｫv9!""bﾚ#ｬ | ｦﾌﾜ4 | |(}P | ｨ8""0ｼ | s｢1｡ﾟWｷ | ｢ﾝqｷﾕ"
+file_163_LBA_08048.bin,81920,,1333,"dfVﾇ | ｶU.`Rq | ｭ｡ｳqrtpnｴｩｭ | J)k-ｭ5 | RﾖZ9g{oｽwt4, | |@U._"
+file_164_LBA_08088.bin,81920,,1524,t}Y.ﾉ | ﾗVﾀCﾊｽY | ﾋｼ4z | :2<IPqD | 0U]ﾜｺK; | ﾚI>ﾈ
+file_165_LBA_08128.bin,81920,Story/Text,1234,"ﾟz(ｲv | Zｪ ｺKEｹ | @ｩﾂﾂﾔ | ﾟﾝgY# | ｯDwIu | 287ﾁﾏh"
+file_166_LBA_08168.bin,81920,,887,ｧﾛtSｳ | ｧｪN9 | n`ﾊ?ﾀ | ﾅ｣ﾐﾟb | 0ｦﾜﾟ | ｿ%rﾋzu
+file_167_LBA_08208.bin,73728,Story/Text,1384,"ﾒｧB4ﾊﾟ-ｾｵ+22 | HﾁjC｢ | q)@ｺｫｪｺ | 3tGS | ""28{ | 73sｵ"
+file_168_LBA_08244.bin,81920,Story/Text,1203,"ｭｭ｣qwspnｴｩｭ | ｪ""V< | )%k- | ﾟsNｵV | ^Zk{oｽwt4, | #nﾚ,"
+file_169_LBA_08284.bin,81920,,1308,"ｭｲqpsqpnｴｩｭ | ﾆ V< | )%k- | RﾖZ9g{oｽwt4, | pｪ2ｪ | ""2CE"
+file_170_LBA_08324.bin,81920,,1477,"ｭｲrpprrnｴｩｭ | ^Zk{oｽwt4, | {ﾓ F | 04#8 | %pip | QｴwVu`ｬ"
+file_171_LBA_08364.bin,81920,,1417,"ｭｲrpqvqnｴｩｭ | "" V< | !k-ｭ5 | ﾟsNｵV | ^9gZkｽwt4, | 5ｹｻﾚ"
+file_172_LBA_08404.bin,81920,,1124,"ﾟ2Q` | 0･8
+@ | 9ﾟｵ3ｳ | 9:ｮ} | ﾚｭｯﾙﾕ | 2ｫRｷ"
+file_173_LBA_08444.bin,81920,Story/Text,1332,"ｭｲrpurpnｴｩｭ | ^9g{oｽwt4, | 3""Oｷｴ | ﾚﾝｽ2 | ﾝ 7""""3cwW | ｻ}ｧyf$"
+file_174_LBA_08484.bin,81920,Story/Text,1522,"ｭｲrqsqpnｴｩｭ | L""V< | )%k-ｭ5 | ﾟsNｵV | ^9gZkｽwt4, | Mｽ^03"
+file_175_LBA_08524.bin,81920,,1403,"ｭｲrqwspnｴｩｭ | ｨ""V< | 1ﾎ91F | ﾟsNｵV | ^Zk{oｽwt4, | 933#Z"
+file_176_LBA_08564.bin,90112,,1173,"ｭｲrrpspnｴｩｭ | )%k- | 1ﾎ91FsN | ^9gZk{oｽwt4, | ﾌｪxｯ | ﾏfS#"
+file_177_LBA_08608.bin,90112,Story/Text,1573,"ｭｲspprpnｴｩｭ | !k-ﾎ9 | ^9g{oｽwt4, | PUｹｰ | ｳｼ;', | > ｿﾌ"
+file_178_LBA_08652.bin,90112,,1562,"ｵﾗuXQ_ﾝ | s,X. | 0ﾌｬｹe | ｿﾛy2 | ﾒ4(ﾘ | 31ｻz"
+file_179_LBA_08696.bin,90112,Story/Text,1390,"ｭｲsputpnｴｩｭ | !J)k-ｭ5 | RﾖZ9gZk{oｽwt4, | \w!"" | ｺ;ﾟｽ | ~ff｡"
+file_180_LBA_08740.bin,90112,Story/Text,947,"ｭｲsrrqpnｴｩｭ | )%k- | RﾖZ9gZkｽwt4, | L1L | ｡ﾃ}｢ | ｿｻｻ;"
+file_181_LBA_08784.bin,90112,Story/Text,1256,"ｭｲtqwspnｴｩｭ | ｪ""V< | )%k-ｭ51F | ^9g{oｽwt4, | Lｰﾝﾛｶ | K+%C"
+file_182_LBA_08828.bin,90112,Story/Text,1073,"ｭｲurtqpnｴｩｭ | )%k- | ﾟRJｵV | ^9g{oｽwt4, | ｲｵb, | !2TX"
+file_183_LBA_08872.bin,90112,Story/Text,1259,"ﾙﾘｷ%jﾉ | PdQ8 | ""ﾑ9ﾁ | ｧ｡0 | '0_ | ﾘw+ﾊ"
+file_184_LBA_08916.bin,90112,,1544,"ｮ｡ｭprtpnｴｩｭ | < V< | !J)k-ｭ5 | ﾟRJｵV | ^9g{oｽwt4, | ｽPR%"
+file_185_LBA_08960.bin,90112,,1502,"ｮ｡ｭptvpnｴｩｭ | )%k- | RﾖZ9gZk{oｽwt4, | !2tｷ | Q3""J | BaﾈAU"
+file_186_LBA_09004.bin,90112,Story/Text,1250,"ｮ｡ｭqqtpnｴｩｭ | ｢ V< | )%k- | ^9gZk{oｽwt4, | VK2N | A33U"
+file_187_LBA_09048.bin,90112,,1288,"ﾏihh< | H> ｬ_ﾜX | %""Ba | 8
+@ﾊ# | KﾄﾍyJp | S|!｣"
+file_188_LBA_09092.bin,90112,Story/Text,1405,"ﾏjｼﾙﾊ | KQ8R | ﾏ5ｯz[! | \Qv9 | l6""y | ｣,L1T9"
+file_189_LBA_09136.bin,90112,Story/Text,1670,"ｮ｡ｭrpqpnｴｩｭ | ﾀ V< | !J)k-ｭ5 | RﾖZ9gZk{oｽwt4, | Bﾝb. | 6ﾀ E"
+file_190_LBA_09180.bin,90112,,1282,"ｮ｡ｭrrtpnｴｩｭ | ﾘ V< | !k-ｭ5 | ^9gZkｽwt4, | FQ$ｷﾝ | DD4ﾍ"
+file_191_LBA_09224.bin,90112,Story/Text,1758,"ｮ｡ｭrtspnｴｩｭ | )%k- | 1ﾎ91FRJ | ^9g{oｽwt4, | 0ﾟjZ | %13dﾐ]"
+file_192_LBA_09268.bin,90112,Story/Text,1283,"ｦ}nｽﾙ | xY, u | qx^V@ | ]ﾛ; | !(
+ｷ | ﾏPｹｸ"
+file_193_LBA_09312.bin,90112,Story/Text,1309,"ｽｻｮP | +0Cｨ | ﾏ'ﾘA1SK | '!ﾖｽD"", | ﾆﾗx; | C!`rﾍ"
+file_194_LBA_09356.bin,90112,Story/Text,1355,"ｲｵｦpurpnｴｩｭ | !J)ｭ5 | ﾟsNｵV | ^9gZkｽwt4, | bｶｻ%. | ｾｻﾛO"
+file_195_LBA_09400.bin,90112,Story/Text,1421,"ｲｵｦqrrpnｴｩｭ | )%k-ｭ5 | ﾟsNｵV | ^9g{oｽwt4, | iﾞｳJ | ﾝｰD#"
+file_196_LBA_09444.bin,90112,Story/Text,1391,FQ>VQﾘﾟ/#ﾑﾟgiﾕｲﾌ* | ｷUU･ | ﾝﾝﾞXｲ | ﾄﾟ% vｪS | >0Dﾓz | ﾜｬxWﾗ
+file_197_LBA_09488.bin,90112,Story/Text,939,"ｲｵｦqxupnｴｩｭ | J)k-ｭ5 | ^9gZk{oｽwt4, | 233Np | ?c&7 | hB
+ｵn"
+file_198_LBA_09532.bin,90112,,1251,"ｲｵｦrqqpnｴｩｭ | 1ｭ51F | ﾟsNｵV | ^9gZkｽwt4, | Bｧxｿ | ""23viﾛｺ"
+file_199_LBA_09576.bin,90112,Story/Text,1471,"ｲｵｦrrtpnｴｩｭ | )%k-ｭ5 | ﾟsNｵV | ^9g{oｽwt4, | 1Dﾝ]"" | pﾀｻﾏ"
+file_200_LBA_09620.bin,90112,Story/Text,1050,"ｲｵｦrtspnｴｩｭ | 4 V< | J)k-ｭ5 | ﾟsNｵV | ^9g{oｽwt4, | ; 3ｫ"
+file_201_LBA_09664.bin,73728,Story/Text,909,"ｳｭｫpqtpnｴｩｭ | !J)k-ﾎ9 | RﾖZ9g{oｽwt4, | 0ﾝaﾇ | q<ﾟ"" | ｫﾃﾟ8"
+file_202_LBA_09700.bin,81920,Story/Text,1335,"ｳｭｫpsspnｴｩｭ | )%k- | RﾖZ9g{oｽwt4, | zww: | bｹｻｫX | ﾕW|8"
+file_203_LBA_09740.bin,90112,Story/Text,1548,"ｳｭｫpuqqnｴｩｭ | H!V< | !J)k-ｭ5 | ^9gZkｽwt4, | TUｪ[ | ﾉﾌｺﾂ"
+file_204_LBA_09784.bin,90112,Story/Text,1612,"ｳｭｫqsqpnｴｩｭ | ﾘ!V< | )%k- | ^9g{oｽwt4, | DtｽC | s$ｫdｴ;"
+file_205_LBA_09828.bin,90112,Story/Text,1223,ｩd1\ | ﾂMﾅﾛ | ｽｭW+ﾐ | ﾐｳ]| | i ･a | !#oﾕ
+file_206_LBA_09872.bin,90112,Story/Text,1666,"ｵ\K!ｱ,ﾕ | mﾀH/-bEﾟ*0 | g
+[B | ﾗﾟjA | ﾌﾌM@ | ﾕｾ7RｸrｪAﾌp"
+file_207_LBA_09916.bin,90112,,1559,"ｳｮｪpprpnｴｩｭ | B!V< | )%k- | ^9g{oｽwt4, | CDｻｭ | ﾒｾｬj"
+file_208_LBA_09960.bin,90112,Story/Text,1805,"ｳｮｪpqvqnｴｩｭ | !J)k-ｭ5 | RﾖZ9g{oｽwt4, | qo 3-ﾃ)Y | ｶﾃ~h""= | ﾗ02Du<"
+file_209_LBA_10004.bin,90112,Story/Text,1526,"ｳｮｪpsvpnｴｩｭ | )%k-ｭ5 | ^9gZkｽwt4, | !ﾎｷｻ | ""BD0ﾄuG | ""DDg"
+file_210_LBA_10048.bin,90112,Story/Text,1584,ｸ5ｫo | ﾓAﾟﾟ | ;4uy | Jc4Uｫﾏ､ｲﾒｬ | ｿﾙﾟHC | 2VｷUZcp
+file_211_LBA_10092.bin,90112,Story/Text,1374,"Z!ﾝﾝ | D3C$8 | }4># | ｺw|ｴ | ﾌ
+1ｦ | <Cuﾙ)ﾀ"
+file_212_LBA_10136.bin,90112,Story/Text,1308,"ｳｮｪqwtqnｴｩｭ | d!V< | )%k- | ﾟsNｵV | ^9g{oｽwt4, | """"]ｱ"""
+file_213_LBA_10180.bin,90112,,1238,"ｳｮｪqyqpnｴｩｭ | t!V< | ﾟsNｵV | ^9g{oｽwt4, | ｩ<ﾒﾎHﾙ | cwｪWD!"
+file_214_LBA_10224.bin,90112,Story/Text,1439,"ｳｮｪrqqpnｴｩｭ | !)%k- | RﾖZ9g{oｽwt4, | !""DD | {] ﾝ; | ｸ6y1 U"
+file_215_LBA_10268.bin,90112,,1535,"ｳｮｪrsqpnｴｩｭ | )%k-ｭ5 | ^9gZkｽwt4, | ﾖｺ5ｩ | eﾅﾃﾑ_ | `iFｾM"
+file_216_LBA_10312.bin,90112,,1276,ﾖﾟ3e | 03y( | ｸｾｩ\Q | ﾙﾏeﾁﾗ | .YﾟZ| | P^Rｸﾜ
+file_217_LBA_10356.bin,90112,Story/Text,1310,"ｴｳｧpprqnｴｩｭ | )%k- | ^9g{oｽwt4, | ｩｻｮﾀﾆ | J""""bY | dｴww"
+file_218_LBA_10400.bin,90112,Story/Text,2104,"ｴｳｧprvpnｴｩｭ | X V< | J)k-ｭ5 | ﾟsNｵV | ^9g{oｽwt4, | ｡K
+Q3""A"
+file_219_LBA_10444.bin,90112,Story/Text,1997,"ｴｳｧpttqnｴｩｭ | )%k- | 1ﾎ91F | ^9g{oｽwt4, | T0Em | Rﾝww+"
+file_220_LBA_10488.bin,90112,Story/Text,1749,"1ﾚ""p | 4ｱ3)ｱ | ﾏ ｷzV | B10U | 1U･2 | S!C!b"
+file_221_LBA_10532.bin,90112,,1330,ﾀｧEp | ﾗN9ｼ | naf｣ | ｰm*Z | k3efｧ | ｯFAｩ
+file_222_LBA_10576.bin,90112,Story/Text,1364,"ｴｳｧqyrpnｴｩｭ | J)k-ｭ5 | ﾟsNｵV | ^9g{oｽwt4, | Pfﾀﾆ | 'pﾎﾊ"
+file_223_LBA_10620.bin,90112,Story/Text,1579,"ｴｳｧrtqpnｴｩｭ | $""V< | ^9gZkｽwt4, | Q3ﾚｽ""ﾀ | @ﾌ
+ｻ | 43eｽｵ"
+file_224_LBA_10664.bin,90112,Story/Text,1528,｡ﾟﾟiﾑ | hｻﾋL | ﾟｾｺ}､ | ｼ1ﾐﾒ. | 1Sfｨ | >%ﾆｷ
+file_225_LBA_10708.bin,90112,Story/Text,1210,4!ﾞ9 | ﾌF!ｷ! | cﾗI6 | ^cfF | }`i!9ｯ | aﾄlfﾆｵｺ｢ｰ
+file_226_LBA_10752.bin,90112,Story/Text,1539,"@ﾕeｲﾚﾕﾔ | <l!ｪGF | <a@ﾝ | A@ｯ7 | ﾐHQｫ< | ｮ""0H@"
+file_227_LBA_10796.bin,90112,Story/Text,1765,"ｵｳｯqsqpnｴｩｭ | 1ﾎ91F | ^9g{oｽwt4, | R#w8 | aﾖn: | ｻﾃ>､:!"
+file_228_LBA_10840.bin,90112,Story/Text,1522,"ｵｳｯqwspnｴｩｭ | !J)ｭ5 | ﾟsNｵV | ^Zk{oｽwt4, | Sﾝｩ< | ､=Jﾕﾑﾝ*S"
+file_229_LBA_10884.bin,90112,,1386,"ｵｳｯrptpnｴｩｭ | ""!V< | )%k- | ^Zk{oｽwt4, | ^ ""2Ddwｧｪ! | ﾚﾑ?ｼ"
+file_230_LBA_10928.bin,90112,Story/Text,1402,"ｷ:ﾔｯﾆ | ﾚD!Sz | Yﾂｺm | 3""ｰE"" | ﾕﾟﾜｻ | ｪﾋﾌｼｪgJH"
+file_231_LBA_10972.bin,90112,Story/Text,1219,"ｯﾁpｾ | wﾛ$ﾑ | {5,ｵ | ﾘK:ﾝ | ｧyﾌｪxb | ｯxwｷs"
+file_232_LBA_11016.bin,90112,Story/Text,987,"ｷ･ｮpsvpnｴｩｭ | ｴ V< | )%k-ｭ5 | ^Zk{oｽwt4, | p<zF | ｢Xw\"
+file_233_LBA_11060.bin,90112,Story/Text,1348,"ｷ･ｮpuspnｴｩｭ | T!V< | ^9gZkｽwt4, | ﾝd!# | rzo$ｰ | QｧｪｪWｪ"
+file_234_LBA_11104.bin,90112,Story/Text,1467,"ｷ･ｮqqspnｴｩｭ | ﾚ!V< | RﾖZ9gZk{oｽwt4, | ""aｭ`h | yﾇ>0- | PPF_["
+file_235_LBA_11148.bin,90112,Story/Text,1464,"ﾋﾁ0s0 | ~｡VBﾚ | ｱQ,iﾌ4- | ﾕ!｢*､E- | ﾌO}｡D"" | Jqｽｷ"
+file_236_LBA_11192.bin,90112,Story/Text,1320,"ｼｻｻﾜ\9ﾓ | ﾟLhｿx | ｢ﾏﾛJｼi\｡ﾟBC | 0ﾉｱ%\+#ﾅ | YR%ﾋ | ﾋﾍｻ｡
+ｱzXL"
+file_237_LBA_11236.bin,90112,Story/Text,1180,"ｷ･ｮrqrpnｴｩｭ | F""V< | )%k- | ﾟsNｵV | ^9gZkｽwt4, | Mqpﾌ"
+file_238_LBA_11280.bin,90112,Story/Text,1534,"ｷ･ｮrsrpnｴｩｭ | V""V< | )%k- | ^9gZkｽwt4, | Oﾝ@J | O @V"
+file_239_LBA_11324.bin,90112,Story/Text,1389,｢ﾞTy | ｬnｰ0 | WｶDﾉEj | ﾙﾟiI | 23uﾚ.|?ｫ | ｮｬｮF
+file_240_LBA_11368.bin,90112,,1782,ﾈsﾜｭ | \Pｬh | BBKｸ | REmSBbV | x^ 4` | @&ﾂB
+file_241_LBA_11412.bin,90112,,1404,"2Du& | ｿ18ｼﾝ | ﾟfm\NﾘyD | ""eｸﾌ{ | ｽAFﾚ<~ﾖ | fA｡Hﾁﾌﾌｼ"
+file_242_LBA_11456.bin,90112,Story/Text,1351,"ｺｯｲppqqnｴｩｭ | 6 V< | RﾖZ9gZk{oｽwt4, | 6ﾌi"" | .ｸq3Y | @#ﾏq"
+file_243_LBA_11500.bin,90112,Story/Text,1360,"ｺｯｲpstpnｴｩｭ | < V< | !J)k-ｭ5 | ﾟsNｵV | ^9gZkｽwt4, | ""23e"
+file_244_LBA_11544.bin,90112,Story/Text,1223,"ｺｯｲputqnｴｩｭ | J V< | )%k- | ^9gZk{oｽwt4, | AD;-I | ?ﾋｼy"
+file_245_LBA_11588.bin,90112,Story/Text,1351,"Qrh& | ｺｯｲqrupnｴｩｭ | X V< | ^9g{oｽwt4, | K
+Q2ｨｻﾑ | &4""Z"
+file_246_LBA_11632.bin,90112,Story/Text,1610,"Rww J | ｪBUE"" | ﾌﾇAﾘFk | ｽUcGﾀx4 F | w(~mﾕ?jLw | ﾘｶ3ﾉ`"
+file_247_LBA_11676.bin,90112,,1326,"ｺｯｲqyupnｴｩｭ | p V< | ^9g{oｽwt4, | lQ\: | 043e | pVUﾝ"
+file_248_LBA_11720.bin,90112,Story/Text,1459,"ｺｯｲrsqpnｴｩｭ | )%k- | ^9g{oｽwt4, | -|Q$ | ""2CE | Yﾂ##"
+file_249_LBA_11764.bin,90112,,1454,"+ｴ5W | ｡q8
+B | .0ﾚｪ` | ｩﾍｻﾌ | %\s:ﾀ | pm)oO"
+file_250_LBA_11808.bin,90112,Story/Text,1391,rd(ﾙﾓ | k0:%b | _3frｨ | ｱzG3 | Iﾃdﾒ | ;Xtwﾑ｡
+file_251_LBA_11852.bin,73728,Story/Text,1197,2 ｶﾟwｰ | !)q&i | $ﾆ%Bo | !cﾑ{ | ﾏ2Z); | `&)8｢z
+file_252_LBA_11888.bin,81920,Story/Text,933,"&-`ｵ | @ﾛ9ｾﾝｾ ﾃ | Aﾍﾌ\ | 3Dｩ`wFpCﾅaCf | {ﾂ""`ﾟ | l uw"
+file_253_LBA_11928.bin,81920,,1092,"ｷ･ｮprqpnｴｩｭ | ""#V< | 1ﾎ91F | ^9g{oｽwt4, | %'U"" | Guo%6"
+file_254_LBA_11968.bin,81920,,175,｡ｲｮn｢ｩｮ | ｢ｧｹn｢ｩｮ | ｡ｲ｢n｢ｩｮ | ｳｭｫn｢ｩｮ | ruf_a | smk_d
+file_255_LBA_12008.bin,81920,,182,ｫ｡ｬn｢ｩｮ | zor_a | kal_d | zor_d | ｮ｡ｭn｢ｩｮ | nam_b
+file_256_LBA_12048.bin,81920,,187,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | uso_a | cyo_d | uso_d | cyo_f
+file_257_LBA_12088.bin,81920,,66,｡ｲｮn｢ｩｮ | ｢ｧｹn｢ｩｮ | ｡ｲ｢n｢ｩｮ | ｳｭｫn｢ｩｮ | ｴｳｧn｢ｩｮ | ｷ･ｮn｢ｩｮ
+file_258_LBA_12128.bin,81920,,84,ｫ｡ｬn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ
+file_259_LBA_12168.bin,81920,,82,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | ｡｣･n｢ｩｮ | ｣ｲ｣n｢ｩｮ | ｭ｡ｳn｢ｩｮ | ｷｰｯn｢ｩｮ
+file_260_LBA_12208.bin,81920,,168,ｳｭｫn｢ｩｮ | ｳｭｫn｢ｩｮ | tsg_b | arb_c | smk_a | bgy_g
+file_261_LBA_12248.bin,81920,,145,ｫ｡ｬn｢ｩｮ | tsg_e | kal_f | ｷ･ｮn｢ｩｮ | ruf_b | wen_b
+file_262_LBA_12288.bin,81920,,70,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | ｡｣･n｢ｩｮ | ｣ｲ｣n｢ｩｮ | ｭ｡ｳn｢ｩｮ | ｷｰｯn｢ｩｮ
+file_263_LBA_12328.bin,81920,,144,ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ
+file_264_LBA_12368.bin,81920,,152,ｫ｡ｬn｢ｩｮ | kal_b | cyo_b | nam_f | wen_d | ｡｣･n｢ｩｮ
+file_265_LBA_12408.bin,73728,,147,｣ｲ｣n｢ｩｮ | ｣ｲ｣n｢ｩｮ | crc_c | cyb_a | cyb_a | crc_h
+file_266_LBA_12444.bin,81920,,146,ｷｰｯn｢ｩｮ | uso_e | wpo_a | ｷｰｯn｢ｩｮ | wpo_b | krm_b
+file_267_LBA_12484.bin,90112,,176,ｭｲrn｢ｩｮ | mr2_h | mas_d | ｭｲrn｢ｩｮ | mr2_a | wpo_a
+file_268_LBA_12528.bin,81920,,152,ｫ｡ｬn｢ｩｮ | ｫ｡ｬn｢ｩｮ | kal_b | cyo_b | nam_f | wen_d
+file_269_LBA_12568.bin,90112,,118,｡ｲｮn｢ｩｮ | ｢ｧｹn｢ｩｮ | ｡ｲ｢n｢ｩｮ | ｳｭｫn｢ｩｮ | smk_c | smk_d
+file_270_LBA_12612.bin,81920,,107,ｴ･ｳｴn｢ｩｮ | crc_h | crc1710 | cyo_e | cyo1910 | cyo1940
+file_271_LBA_12652.bin,90112,,74,ｭ｡ｳn｢ｩｮ | mas_f | mas_f | ｷｰｯn｢ｩｮ | chs_a | wpo_i
+file_272_LBA_12696.bin,81920,,55,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | ｡｣･n｢ｩｮ | ｣ｲ｣n｢ｩｮ | ｭ｡ｳn｢ｩｮ | ｷｰｯn｢ｩｮ
+file_273_LBA_12736.bin,90112,,68,｢ｧｹn｢ｩｮ | ｴ･ｳｴn｢ｩｮ | crc_h | crc1710 | cyo_e | cyo1910
+file_274_LBA_12780.bin,81920,,96,ｳｭｫn｢ｩｮ | uso_c | uso_c | ｳｭｫn｢ｩｮ | snj_c | ｳｭｫn｢ｩｮ
+file_275_LBA_12820.bin,90112,,99,ｭ｡ｳn｢ｩｮ | mas_f | mas_d | ｷｰｯn｢ｩｮ | wpo_c | ｭｲrn｢ｩｮ
+file_276_LBA_12864.bin,81920,,58,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | ｡｣･n｢ｩｮ | ｣ｲ｣n｢ｩｮ | ｭ｡ｳn｢ｩｮ | ｷｰｯn｢ｩｮ
+file_277_LBA_12904.bin,90112,,98,ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ | ｳｹｮn｢ｩｮ
+file_278_LBA_12948.bin,81920,,98,｡｣･n｢ｩｮ | uso_b | uso_b | ｡｣･n｢ｩｮ | snj_a | snj_g
+file_279_LBA_12988.bin,90112,,100,ｭ｡ｳn｢ｩｮ | mas_f | ｷｰｯn｢ｩｮ | wpo_d | ｭｲrn｢ｩｮ | mr2_c
+file_280_LBA_13032.bin,81920,,113,ｷｰｯn｢ｩｮ | ｷｰｯn｢ｩｮ | cyo_b | dlt_d | drk_d | drk_g
+file_281_LBA_13072.bin,90112,,108,ｭｲsn｢ｩｮ | ｭｲsn｢ｩｮ | ｭｲsn｢ｩｮ | ｭｲsn｢ｩｮ | smk_d | ｭｲsn｢ｩｮ
+file_282_LBA_13116.bin,81920,,112,ｵｳｯn｢ｩｮ | ruf_f | ruf_d | ｳｮｪn｢ｩｮ | ruf_k | ruf_d
+file_283_LBA_13156.bin,90112,,116,ｭ｡ｳn｢ｩｮ | zor_a | zor_e | ｷｰｯn｢ｩｮ | zor_a | ｭｲrn｢ｩｮ
+file_284_LBA_13200.bin,81920,,106,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | uso_d | uso_f | ｡｣･n｢ｩｮ | uso_b
+file_285_LBA_13240.bin,90112,,56,｡ｲｮn｢ｩｮ | ｢ｧｹn｢ｩｮ | ｡ｲ｢n｢ｩｮ | ｳｭｫn｢ｩｮ | ｴｳｧn｢ｩｮ | ｷ･ｮn｢ｩｮ
+file_286_LBA_13284.bin,81920,,58,｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｡ｲｮn｢ｩｮ | ｴ･ｳｴn｢ｩｮ | crc_h
+file_287_LBA_13324.bin,90112,,75,ｭ｡ｳn｢ｩｮ | ｷｰｯn｢ｩｮ | ｭｲrn｢ｩｮ | ｭｲsn｢ｩｮ | ｫ｡ｬn｢ｩｮ | ｡ｲ｢n｢ｩｮ
+file_288_LBA_13368.bin,81920,,97,ｳｹｮn｢ｩｮ | ｣ｹｯn｢ｩｮ | smk_e | ｡｣･n｢ｩｮ | smk_d | smk_c
+file_289_LBA_13408.bin,90112,,88,ｷ･ｮn｢ｩｮ | ｷ･ｮn｢ｩｮ | ｷ･ｮn｢ｩｮ | ｷ･ｮn｢ｩｮ | wen_b | wen_c
+file_290_LBA_13452.bin,81920,,58,ｭｨｫn｢ｩｮ | ｭｨｫn｢ｩｮ | ｭｨｫn｢ｩｮ | ｭｨｫn｢ｩｮ | ｭｨｫn｢ｩｮ | ｭｨｫn｢ｩｮ
+file_291_LBA_13492.bin,90112,,104,ｭ｡ｳn｢ｩｮ | ｷｰｯn｢ｩｮ | ｭｲrn｢ｩｮ | ｭｲsn｢ｩｮ | ｫ｡ｬn｢ｩｮ | ｣ｹｯn｢ｩｮ
+file_292_LBA_13536.bin,73728,,99,｡｣･n｢ｩｮ | ｡｣･n｢ｩｮ | ace_d | ace_a | ｴ･ｳｴn｢ｩｮ | crc_h
+file_293_LBA_13572.bin,90112,,99,ｭ｡ｳn｢ｩｮ | mas_d | mas_f | ｭ｡ｳn｢ｩｮ | mas_f | mas_f
+file_294_LBA_13616.bin,90112,,115,ｫ｡ｬn｢ｩｮ | wpo_d | ｭｲrn｢ｩｮ | mr2_c | mr2_i | ruf_d
+file_295_LBA_13660.bin,90112,,1175,ｭｲsn｢ｩｮ | mr3_e | ｭｲsn｢ｩｮ | mr3_h | ｭｲsn｢ｩｮ | mr3_h
+file_296_LBA_13704.bin,90112,Story/Text,1990,12 TVeW | xwh%1 | SvﾈｻｻyF1 | ﾋﾍﾍｼW!ｨ> | #Seｸﾌﾞﾝﾍ|T | ﾝﾝjD1
+file_297_LBA_13748.bin,90112,,1931,",ｱ~% | 5 O#/2 | #>v｡ | & 2E | =ﾀﾙ# | %#!K3"
+file_298_LBA_13792.bin,90112,Story/Text,2009,"A#2C | /24% | ""Bﾟﾞ 3 | DNﾛ｣4M | $!L"" | !=ﾞﾑ2!"
+file_299_LBA_13836.bin,90112,Story/Text,3194,(@0A | ｣|9ｬ | ﾉｰrﾌ@) | ﾌ9ﾘCｿ | xﾒﾐE､ | u0CO
+file_300_LBA_13880.bin,90112,Story/Text,2053,"VdbffX | &D%EBBﾐ | &oBﾅEFT | d@ｽ! | ｢8 ""> | 012｡｣･"
+file_301_LBA_13924.bin,90112,,1955,"ﾍ_ﾞ""ﾞ | CBB"" | ﾎﾍｫｻｫｼ2 | ﾝｾｱB | *AﾀRｱﾍ.3ﾞ!ﾝ | &ﾎｫ\e"
+file_302_LBA_13968.bin,90112,Story/Text,1988,"ﾂ/L. | ﾟﾞｬ=@ | ""rﾀﾜﾄﾖ.2 | #>""A | >Aﾂﾟ!! | #ﾋ4"
+file_303_LBA_14012.bin,90112,,3077,"fﾜ!2ﾄ!ｪ | ｼ""(ﾊ ｳ | xｾﾔｿ | J8ﾉTﾈ | ﾑXﾖ x | ﾐZﾝ\"
+file_304_LBA_14056.bin,90112,Story/Text,2291,"@M!qu | w7]ﾑ | AkｦrwwG | !f｡ｫﾆ"" | @[#t | ﾂUBc"
+file_305_LBA_14100.bin,90112,,1599,ﾜﾝﾑﾒ | ﾃﾐ % | ｴｪJd | ﾎﾝｼ;0 | ﾞ?2ﾟ | Rｼﾋ1ｯ
+file_306_LBA_14144.bin,90112,,2262,Sｸｭ_ | Rｳｯ_ﾐ | h1_ｯ | ｢ ｭ8! | pｯ_ﾂ | *ｬｯ0
+file_307_LBA_14188.bin,90112,Story/Text,2766,"H,b,_ | d
+(- | H,ｭﾌP( | $tJ | ﾆ､ｫ6ﾔq | ｰｴｭH,4ｳ,1ｲ"
+file_308_LBA_14232.bin,90112,,1765,"@ﾄｳI | A1ﾏﾒ | VOｿﾑ | rﾏｯa | @ﾞ4 | 1SｲﾏKｻ"
+file_309_LBA_14276.bin,90112,,1913,"ｿ,_T | ﾀ#F1 | ｫﾜD""ｽ | 'ｵﾚ# | ﾓ Q> | ﾃﾏ1C"
+file_310_LBA_14320.bin,90112,Story/Text,2773,"!
+ｨo | ｭ 0ｨn | ﾌF8& | ｭ]L0 | ﾜ@ﾗ | ｴ!ﾜFX"
+file_311_LBA_14364.bin,90112,Story/Text,2025,"ｯsBﾔ | gfUE | BevﾁｺV$ | tｩ1ｫhD""Bd | ｨｪ{2 | 2u61"
+file_312_LBA_14408.bin,90112,,1736,"/3&ﾐE | ﾜ-04ﾂﾟ | #ｾﾝ1C | #ﾟB | Qr ﾋﾛD | Vbq5"
+file_313_LBA_14452.bin,90112,Story/Text,2274,"ｿﾟ 0 | ﾋﾅｹP | m
+ｹ> | ｭ
+r8 | ﾛｿﾟ@U | 4
+Zﾐ"
+file_314_LBA_14496.bin,90112,Story/Text,2697,ｰ9LC` | @)tYｦ$ﾌ6 | ｧｩTC | \ 09 | nU･@ | 82@2W(ｰ
+file_315_LBA_14540.bin,73728,,1473,ﾅﾄ<0 | ﾞ?ﾟAﾞ | B22P;NQ | <ﾐﾔA | wwwwwwwwwwwwww | ﾍﾝﾝﾝ
+file_316_LBA_14576.bin,81920,,1620,"/C""ﾏB | ﾌﾚ1E | ｰﾔ/- | E?#% | ST$2 | ﾚｻ/ ﾁ"
+file_317_LBA_14616.bin,81920,Story/Text,2280,"h
+ｰ^) | ﾀﾙIﾇa | ﾆﾜyY | ﾐﾔ｢|ｨ | cｮQc | ｺBｴ｢lｩ"
+file_318_LBA_14656.bin,81920,Story/Text,2550,"Iv^ｮ]8wa | "">ﾌ! | !??3 | 01｡ｲｮ | ｦpppnｴｩｭﾀ | wZosbｵf"
+file_319_LBA_14696.bin,90112,,1809,"Bﾍ!D | _FｾO | 2ﾝ"">ﾒ | ﾀO ｬd | Mｵ{ｧ | /ﾟRﾏ"
+file_320_LBA_14740.bin,81920,Story/Text,1655,"ﾑﾐﾄ' | "" 2!1' | Mﾛﾁﾐ | ｣+E% | 34$ﾎ | T+""ｱ>"
+file_321_LBA_14780.bin,81920,Story/Text,2806,"P4`4% | <ﾒmk | Qﾀ@M | T""Jz | ~=q8ﾝ | ﾏﾟx8"
+file_322_LBA_14820.bin,90112,,2185,"GdE># | ｼｪvx5TN""/ | ｼygGﾀ | fhvFy# | ﾃ$hefl4 | 9DN}"
+file_323_LBA_14864.bin,81920,,1588,"F$ﾒｱ | :.!""/Iﾏ# | ﾂ0 >\ | ﾝ 4$< | %1!ｾ | ﾑ!QC"
+file_324_LBA_14904.bin,81920,Story/Text,1846,"B3QMﾕaﾍ | ﾄOﾏ-ﾁ | ﾟ1ﾏ4 | .ﾁ]ｦCﾔ | #>ﾒA | Roﾋpﾅ"
+file_325_LBA_14944.bin,81920,Story/Text,2959,"ﾌｱ｣ｬｬ､ | xa`ｦﾀ | AｦL0pQ｢ | ZpP
+｢pQDpVH
+｢P{ | ｶ,ｱp | Hjｵﾐ"
+file_326_LBA_14984.bin,81920,,1650,"M=JM- | ﾑﾞｰﾞ | ﾅﾓﾒﾂ | ﾟ ""ﾁ- | ﾐ""_ｻ | B*Fﾝ"
+file_327_LBA_15024.bin,81920,,1522,"!!ｱ"" | /!-1B | ?Zzｾﾆ#ﾁ | "">VD | ｾﾑﾄ/< | !>ﾁ.ﾒ"
+file_328_LBA_15064.bin,81920,Story/Text,2201,"ｴｮ｣H!@!xA | !J1~ | LHl@ | ﾃt|Q% P[% | tﾆ8ﾛｩ@ | &F?,',$"
+file_329_LBA_15104.bin,81920,Story/Text,2693,"qｲU｡(qｱ | Tﾄp{ | ｴuﾀｬ#G | hｭｫｸ1p | pPx | @(xd)"
+file_330_LBA_15144.bin,81920,,1620,"r=ﾁ$ | ﾎﾛﾞｭｭ | ﾑﾓ｣3 | ｯ?-O | 5\｡ | 4/3T"
+file_331_LBA_15184.bin,81920,Story/Text,1596,"ﾟﾁ""ﾞﾄ | =ﾏ""ﾎ | ﾑ2ﾀﾄ | 0Kﾂ# | ? #4 | _] ｦ"
+file_332_LBA_15224.bin,73728,Story/Text,2098,"AC|0 | 5ﾐ)ﾂ | 5p
+p | MrQ$mﾐp | Vｶ9] | Uｧｹhｱ"
+file_333_LBA_15260.bin,81920,Story/Text,2458,)pｵｯDｲk | )ﾜ*fﾜ | D)#(｢ | #｢P!c | (8ｱﾍCｮ | b0Mｸ
+file_334_LBA_15300.bin,90112,,1751,"ｾﾝ?# | B%ﾀﾍS' | A$""B""ﾐﾝ 3 | .UbTF | F$P$ | 1aB&"
+file_335_LBA_15344.bin,90112,Story/Text,1750,A643) | pRﾋﾃ | ｱ.1D | ﾎﾖﾀﾜﾟ | >Aｰ4 | !ﾁ/#ﾟ
+file_336_LBA_15388.bin,90112,Story/Text,2733,"ﾒﾁﾐﾆ | ﾆｶ9tﾅ7 | ｷZDP | L@
+_ | ｫ0x
+ｰ | ﾐｭﾖ`"
+file_337_LBA_15432.bin,90112,Story/Text,2134,"ﾑ}､p1 | ｹ
+ｸsｸ | @ﾝwｸ | ﾌﾌﾝq | UE % | cｫ\4%C"
+file_338_LBA_15476.bin,90112,Story/Text,1699,3*Bﾞ | ?ｵ]ﾒ\ | #4ｾ.F | /-Oﾞ | #ﾟ)2 | ｮﾕﾎ=
+file_339_LBA_15520.bin,81920,Story/Text,1589,ｨﾆ~DｩLｪH | `/｣Ao | (q4)pﾈ | smID | t､!uT | v\:$P
+file_340_LBA_15560.bin,81920,Story/Text,2760,"ｰﾞc$ | >ｸｦｵ? | ｦ-qｦB | \H!ｴS | Kｮ
+9 | ｲ*84"
+file_341_LBA_15600.bin,81920,,1647,"ｯKﾔoｳ | ﾁﾏ.4^ | MｲAﾐ. | ﾙTﾉ0 | +､""ｮ | k｣3ﾜﾜe"
+file_342_LBA_15640.bin,90112,Story/Text,1685,"""5B! | N2E2""ﾓ2 | < #C | ﾏﾝ@ﾑﾐ^ | AA54 | Y""!/"
+file_343_LBA_15684.bin,90112,Story/Text,2446,"ｼjlZ | ｩac&ｬ | ﾄPﾉｶｱPﾊ | ﾋｲiﾌTﾍ | ﾛｴﾌﾄ | ｪｪ""ｴ0"
+file_344_LBA_15728.bin,90112,Story/Text,2309,"iｹBﾑ | ﾆｲﾖY | ｲZｿo | ｼc(M | xﾂC!
+( | ""133"
+file_345_LBA_15772.bin,90112,,1738,4_U* | #B43A@ | ｼﾏﾝﾊ | BQCbA3 | P3o$3n! | ﾌﾝｽｻ
+file_346_LBA_15816.bin,90112,Story/Text,1718,"hｪｪ0ﾐ | ﾑWｨｹ | JQ)^S | ｪ_(]ﾈ! | ｣ﾟﾊ
+M | ﾉ}ｿ@"
+file_347_LBA_15860.bin,81920,"Story/Text, Characters",2763,":G08Op | `ﾌAﾆ$ | uｫxJﾆ4 | |,ﾒ､v)*TT+DN | Dｬ$｣@H | ｪｨ|r\8｡8"
+file_348_LBA_15900.bin,81920,,1582,"ｻ/yG | ｸjZYｭｽ? | ?/ﾋﾐｪｼ | =ｦｪｪ$~ | fｪ""nDs | BfDn"
+file_349_LBA_15940.bin,90112,,1593,"Ne !Aﾄﾝ"" | 0ﾁ=nO | ﾞL!, | ﾂﾐﾐﾎ | ﾟ+/)@ | 3!@N"
+file_350_LBA_15984.bin,90112,Story/Text,2061,"UｪxV | ｨIX)Tｿ | ･J "" | hﾚﾀr | N>.8｣ | )4ｹ+cBｵ&"
+file_351_LBA_16028.bin,90112,,2388,<`DU | ｢ｴ｡P | ･ｩDﾘｽ | %｢$ｱ | IｱPﾁ | 0>ｷﾒ
+file_352_LBA_16072.bin,90112,"Story/Text, Characters",2324,vﾊWU | ｵﾇﾅwZkﾌ7 | 3k｣Sw< | ｶ%22v | Su5fga | 23ﾇ%Sc5u7
+file_353_LBA_16116.bin,90112,,1615,"ｾN%1 | /Eﾃ2 | -F｡ﾙ%ﾞﾞ1 | !ﾜ ﾞ/ﾜ | ""ﾞ=$1 | Uﾑ1B""2"
+file_354_LBA_16160.bin,90112,Story/Text,1905,"^ｳ\K | ﾐﾒ/"" | ﾒ.>""35! | ﾃnｳj | \=ﾜ""* | Oﾞ_ﾒ."
+file_355_LBA_16204.bin,90112,Story/Text,2136,0(0( | 0ﾐ.0 | (tｪ0 | `ｼｪ0ﾀ | L hL | THzT
+file_356_LBA_16248.bin,90112,"Story/Text, Characters",2553,"trDr< | ｬﾉ$@ | d:ﾂｱ | ﾂｰ@,ｩｬｺ | *ﾈK`ｪ|
+ﾔ | ﾐｺ@"
+file_357_LBA_16292.bin,90112,,1608,"Q#ﾐﾛ | ;,ﾔﾖ02 | ﾐ""_-ﾔ | ﾐP?ﾞ | ﾟｼﾌﾏﾌ | ｯｴﾒBNﾎ"
+file_358_LBA_16336.bin,73728,Story/Text,1363,"A1ﾒﾔ% | '#O/ | ?N33 | ﾝMﾓﾐ | ﾑ#ｰ | ?#m)"
+file_359_LBA_16372.bin,81920,Story/Text,1848,"d#t$Aﾔt | ｸ､@@ | *ﾜk
+) | R0F"" | lL[ﾘB1 | DﾜﾄQ"
+file_360_LBA_16412.bin,81920,Story/Text,2252,4･(v | :･(v | @v)J | CR､v | (EEv | Fv)J
+file_361_LBA_16452.bin,81920,"Story/Text, Characters",2147,jｱﾌ7i | A$x~ | `lDS | 4}$@ | fｫff | Pzｷﾃ
+file_362_LBA_16492.bin,81920,,1469,"C%2$ | ﾀ ﾌ# | ""ﾑ-"" | ﾏﾍ/ﾏ. | 3ﾟ 3 | tﾂcﾒ="
+file_363_LBA_16532.bin,81920,Story/Text,1642,3ﾊ&ﾍ3 | ﾟbﾐL$ﾍP | ﾆｰﾕ ｱ | !K.m | M=/M | /-.>01ﾉM/D
+file_364_LBA_16572.bin,81920,Story/Text,1568,"tﾆtﾅ@ | 4ﾊ4ﾍ | _ｿﾈ%ﾎ | E|ﾐ
+ﾈ&1 | ﾐ^!ｱ | ﾆfpｰJ9"
+file_365_LBA_16612.bin,81920,Story/Text,2757,"ﾘDｰﾘ@
+f | ｴCｬ | :pA81 | \:ｪｪ･14 | @ZｪL | uQbzｴG"
+file_366_LBA_16652.bin,81920,,1593,"SUﾃﾟf | 2aB0 v | vopwI0# | ]､ｨｰ | :ｪLaTB
+cx:ｵ | :ﾌw="
+file_367_LBA_16692.bin,81920,Story/Text,1887,"/ﾏDｻaｾ | ｲAｼU | ﾑｫﾑ2 | 2ﾐ ﾟ | 3ﾀM2 | ﾀ
+#03"
+file_368_LBA_16732.bin,81920,Story/Text,1661,"ｯﾗﾀ | ﾝｸY ｰ | ｰ0_F | ﾑ~ｿP | X aｾ | D_ｿ0"
+file_369_LBA_16772.bin,81920,Story/Text,2304,"ﾂp=6ﾚ07 | ﾘｨ
+0 | Iｱﾚ@ | Jｪｪﾘr( | R;98 | R~ﾁ4S"
+file_370_LBA_16812.bin,81920,Story/Text,2167,^y662 | %ｺB]c | TVｽ}Dｴ( | ｪｪ33 | ｩ*')｢ | 0ｪHｪｪD
+file_371_LBA_16852.bin,81920,,1725,"/ﾎｾﾅｮR | ﾍRｾﾛｦ | ﾞﾏｾ4 | ﾑｽD""+S | 4.<3 | ﾞN<p2"
+file_372_LBA_16892.bin,81920,Story/Text,1867,"""ｻ0/ | ﾑﾞ-ﾀ0 | NﾅB/､]ﾐ | OｴK｢R,2 | 32$@!""2QB | /!ﾔ2"
+file_373_LBA_16932.bin,81920,Story/Text,1612,H@Rd | -ﾆﾘ0 | 0/L4H | 8H P | H6ｬZ?ｰ( | rﾄ]ｲ
+file_374_LBA_16972.bin,81920,Story/Text,2676,"ﾒﾙ B | ]ﾈ1(ｪ* | ﾐﾊD* | ﾓX
+ﾐｸ | ﾀ
+XUﾕ | ﾞPsﾀﾐ"
+file_375_LBA_17012.bin,81920,,1681,"ﾎ0`ｼ | \
+wG | ﾟn^ﾛ | m)ﾅa | {F|V | RｿbZ_ｽo"
+file_376_LBA_17052.bin,81920,,1736,"Aﾞ=ﾐ | ﾎOｿrﾟﾐ0ﾑ | $1%0 | ｰ?ﾑQﾀ | tﾎﾞ< | /ﾍ2ﾐ2ﾍ2"
+file_377_LBA_17092.bin,81920,,1809,"o!ﾄ5 | ?OR!- | ^PC5 | ?0ﾊﾀﾞ | ,ﾍﾍ/ | ｼ!BC"
+file_378_LBA_17132.bin,81920,Story/Text,2600,",､ｸｧ | ｮ$ｱp | ﾚ(ﾛ0ﾜ | }4ｶ4 | ｰrm[ | ﾞ(<Zﾅｪ"
+file_379_LBA_17172.bin,81920,Story/Text,1661,"｣r'tg | ,hd | 5ｷ!: | 8d6D;@ JZ | ﾎ9､D)
+ﾇ | 0ｫ｡ｬ"
+file_380_LBA_17212.bin,81920,,1750,"0#ﾟﾏﾏ | .3Dｾ | $ｰﾝﾍ | "" !D | .O""BD | =/1ﾄﾑ"
+file_381_LBA_17252.bin,81920,,1847,"^ｿ""<ﾓ!M1 | ﾒﾕ?/ | 2Tﾎﾋ T | ﾌﾛ S | ﾌﾌ CTｾｻ0 | ﾟﾋ#SDﾍ0"
+file_382_LBA_17292.bin,81920,Story/Text,2869,"hx
+ｵ | /ﾘｫﾖTﾔ | G (S | UU ( | ﾐZ5j\ | HC""d"
+file_383_LBA_17332.bin,81920,Story/Text,1833,"#ﾀ!{ | Uwｸﾝﾝ | ｺｻｽ? | ｪxVT | ｻｻhfvｧｪ | Z｡､,"
+file_384_LBA_17372.bin,81920,,1723,"ﾏｾ2# | /QM,,, | ;.nN_ | 0l/[3 | Rf%C | ,ATﾞ"
+file_385_LBA_17412.bin,73728,,1523,Lﾀoｴ^ﾎ | @Eｽﾝﾍc!ﾑ | 3ﾝ/C | ｵOﾑ^ | /0T｣ | &19ﾐ
+file_386_LBA_17448.bin,81920,,2521,"ｬﾜｵﾜ | ｵｼﾉJ | ｲlﾄｵｬ｢ﾞﾘ | ｵﾘﾘ6 | J2<, | jﾆj<"
+file_387_LBA_17488.bin,81920,Story/Text,2228,wnｴｩｭﾀ | ﾞ[ｾW | O~G^C>; | ﾟTｷｻ | VCdeﾗﾍｩ | 3Tcu
+file_388_LBA_17528.bin,81920,,1711,"ｪuﾎ4ﾜ1ｮ | ﾞﾞ! | ""C$( | wwwwwwwwwwwwww | 5ﾓﾚ@5ﾎ | ﾝ/DﾟｺQFｯ"
+file_389_LBA_17568.bin,81920,,1662,BdﾎﾎM3ﾕC | ﾌﾝA4$ | ﾉ-43 | ﾉC!D | /ｾ>T | 1ﾛ3ﾛ$
+file_390_LBA_17608.bin,81920,,2367,$040 | (ｦ!^8 | \G\H | N(Qc | Y1ﾆ(Z | c]<^
+file_391_LBA_17648.bin,81920,Story/Text,2216,ｭ9k-)% | ｩｺﾋ& | kfww7ｪｺM | ｼeｭｯfv7 | ﾏ[UfM | ｼTUM
+file_392_LBA_17688.bin,81920,,1519,"A@""# | 5Z､# | 5@ﾔD | ﾐBO$ | 0eD/ﾟ | .bdC"
+file_393_LBA_17728.bin,81920,,1746,"^4ｽﾋaSﾟﾝ | ﾌ V"" | ﾑﾜ.B | Fﾏｽ$ | ﾟｾB6 | ｿﾞ@R"
+file_394_LBA_17768.bin,81920,Story/Text,2281,e?ﾆlh | cm$p | ｪDｭc | Dｰ<ｳ<ｶ1ﾆ | cﾂ ﾁ | ﾍ0ﾐﾆ
+file_395_LBA_17808.bin,81920,,2095,"!ﾍﾝﾊﾌ | ｭｩﾍﾌｬﾝﾜ | ｻy
+ｷ | Sxﾝ
+ﾋﾚﾊ* | 3Q;Q | #9ﾏｸ"
+file_396_LBA_17848.bin,81920,,1560,"ｳ00ﾞ!｢ | Aﾟ%ﾞ | Aﾃﾐ_ﾁ | =$ﾜAﾑ,ﾄ01 | ﾟ1ﾔ. | /ﾀMﾂZ"
+file_397_LBA_17888.bin,81920,Story/Text,1740,01ｪ｡ｮｧｯnｶ｢ | ﾒ0+ﾛﾐﾎ | CoQ@M | $0ﾒ) | ｳ4 ﾒ | ﾑﾐAS
+file_398_LBA_17928.bin,81920,Story/Text,2372,"^~|x_X | jｨjﾀX | [3ﾑｪm | ｨ[<ﾒ@X | ﾍｮ
+`] | ﾈﾑ3ｸU("
+file_399_LBA_17968.bin,81920,,2201,"､qppnｴｩｭ@ | .?9< | ･Eｵ)･ | ｽsｵﾍｱJｲﾆ | aｮｦsﾆ | "">ｻww"
+file_400_LBA_18008.bin,81920,,1561,"Aﾟ%ﾞ | Aﾃﾐ_ﾁ | =$ﾜAﾑ,ﾄ01 | ﾟ1ﾔ. | /ﾀMﾂZ | @ﾒKﾑ/"
+file_401_LBA_18048.bin,81920,Story/Text,1825,"C.3+ | C3Bb | ##TPB23 | ﾌﾞﾍﾜｻ | ﾁ5 G | @""ｰｺﾉ"
+file_402_LBA_18088.bin,81920,Story/Text,2676,､ｨ2ﾖ; | ﾘ!ｰﾀ | !ｰ#ｪ | ﾜ`｡_ｬｨ | mm|1 | Kn[&
+file_403_LBA_18128.bin,1785856,Story/Text,44368,"ﾋQ
+0u | _`ﾍｬﾉ | w@ﾖﾜﾈ | ｰ
+ﾌﾖP | # fNi | *!ﾙﾜ"

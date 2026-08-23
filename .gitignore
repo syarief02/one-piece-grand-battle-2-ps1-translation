@@ -1,0 +1,24 @@
+# Disc images and large ROM binaries
+*.chd
+*.bin
+*.cue
+*.iso
+*.img
+
+# Large extracted disc assets
+extracted/*.APF
+extracted/*.DAT
+extracted/*.apf_unpacked/
+extracted/STR/
+extracted/*.rebuilt
+
+# Build outputs (keep patch files, ignore huge disc binaries)
+build/*.bin
+build/*.cue
+build/*.APF
+build/*.DAT
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class

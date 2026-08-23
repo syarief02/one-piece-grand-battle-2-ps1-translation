@@ -2,12 +2,14 @@
 """
 APF_v2.0 Repacker for One Piece Grand Battle 2.
 Takes files from 'extracted/apf_unpacked/' and repacks them into a new OP.APF.
+Also applies string translations to the preamble overlay sectors!
 """
 
 import os
 import sys
 import struct
 from pathlib import Path
+from patch_strings import DEFAULT_TRANSLATIONS, patch_binary
 
 def repack_apf(in_dir="extracted/apf_unpacked", out_path="extracted/OP.APF.rebuilt", original_apf="extracted/OP.APF"):
     print(f"Repacking APF archive from '{in_dir}' -> '{out_path}'...")
@@ -33,11 +35,16 @@ def repack_apf(in_dir="extracted/apf_unpacked", out_path="extracted/OP.APF.rebui
 
     print(f"Found {len(file_list)} subfiles to repack.")
     
+    # Read preamble (sectors 0 to 1703) and apply string translations!
     with open(original_apf, "rb") as f:
         original_preamble = f.read(1704 * 2048)
         
+    print("Patching OP.APF preamble overlays & menu strings...")
+    patched_preamble, preamble_patch_count = patch_binary(original_preamble, DEFAULT_TRANSLATIONS)
+    print(f"Applied {preamble_patch_count} translations to OP.APF preamble!")
+    
     with open(out_path, "wb") as out_f:
-        out_f.write(original_preamble)
+        out_f.write(patched_preamble)
         
         current_lba = 1704
         lba_offsets = []
@@ -59,10 +66,12 @@ def repack_apf(in_dir="extracted/apf_unpacked", out_path="extracted/OP.APF.rebui
             
         total_sectors = current_lba
         
+        # Update LBA table in output file at offset 0x800
         out_f.seek(0x800)
         for lba in lba_offsets:
             out_f.write(struct.pack('<I', lba))
             
+        # Update total sectors in header at offset 0x10
         out_f.seek(0x10)
         out_f.write(struct.pack('<I', total_sectors))
         

@@ -8,9 +8,12 @@
 # Large extracted disc assets
 extracted/*.APF
 extracted/*.DAT
+extracted/*.DA
+extracted/*.08
 extracted/*.apf_unpacked/
 extracted/STR/
 extracted/*.rebuilt
+build/SLPS*
 
 # Build outputs (keep patch files, ignore huge disc binaries)
 build/*.bin

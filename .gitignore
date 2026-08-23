@@ -11,9 +11,13 @@ extracted/*.DAT
 extracted/*.DA
 extracted/*.08
 extracted/*.apf_unpacked/
+extracted/op_unpacked/
+extracted/op2_unpacked/
+extracted/textures/
 extracted/STR/
 extracted/*.rebuilt
 build/SLPS*
+build/*.chd
 
 # Build outputs (keep patch files, ignore huge disc binaries)
 build/*.bin
